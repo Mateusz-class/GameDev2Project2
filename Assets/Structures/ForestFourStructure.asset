@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60f71edb1b35a7040adafeaf2aad991e, type: 3}
+  m_Name: ForestFourStructure
+  m_EditorClassIdentifier: Assembly-CSharp::StructureAsset
+  placeableObjectPrefab: {fileID: 9128006124108303635, guid: 03b1b2f43f6cf2140ba652fe78316413, type: 3}
+  previewObjectPrefab: {fileID: 2899276018097116865, guid: c63ab01b778913c4e97b81216e5bccb3, type: 3}

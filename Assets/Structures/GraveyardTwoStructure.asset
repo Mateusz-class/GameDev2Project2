@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60f71edb1b35a7040adafeaf2aad991e, type: 3}
+  m_Name: GraveyardTwoStructure
+  m_EditorClassIdentifier: Assembly-CSharp::StructureAsset
+  placeableObjectPrefab: {fileID: 5522958775345024369, guid: 936ecb7fe9ba8ec42b27525ede880388, type: 3}
+  previewObjectPrefab: {fileID: 5677691271912012201, guid: f75bb89bb4cb749499b73a8f899a2d2a, type: 3}
